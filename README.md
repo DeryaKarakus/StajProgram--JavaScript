@@ -1,2 +1,2 @@
-# StajProgram-JavaScript
-## Patika.dev'deki JavaScript Patikamdaki tüm ödevleri burada paylaşmaktayım
+## StajProgram-JavaScript
+# Patika.dev'deki JavaScript Patikamdaki içeren ödev çözümlerini burada paylaşmaktayım.
